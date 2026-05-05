@@ -2,7 +2,9 @@
 
 **Love Opus** is a romantic interactive web experience designed as a soft digital keepsake for memories, promises, letters, and little moments that make love feel timeless.
 
-Live Demo: https://forthelove.netlify.app/
+Live : https://forthelove.netlify.app/
+
+No Custom Changes required , just send it, the website link directly to your love partners!!
 
 ## Overview
 
